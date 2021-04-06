@@ -1,0 +1,23 @@
+{
+  "name": "sit725-task3-yang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangyang1235/SIT725-Task3-Yang.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangyang1235/SIT725-Task3-Yang/issues"
+  },
+  "homepage": "https://github.com/yangyang1235/SIT725-Task3-Yang#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
