@@ -215,3 +215,4 @@ node_modules/vary/HISTORY.md
 node_modules/vary/LICENSE
 node_modules/vary/package.json
 node_modules/vary/README.md
+node_modules/.bin/is-ci.ps1
